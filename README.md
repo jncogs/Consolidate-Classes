@@ -87,8 +87,7 @@ The categories for this plug-in are as follows:
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 11/06/2023 | 1.0.0 | Initial release |
-| 09/02/2024 | 1.0.1 | Added Help Box to dialog |
-| - | - | Made dialog box resizable |
+| 09/02/2024 | 1.0.1 | Added Help Box to dialog <br><br> Made dialog box resizable |
 
 ## Known Bugs
 
