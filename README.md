@@ -95,7 +95,9 @@ No Known Bugs
 
 ## Feature Requests
 
-No current Feature Requests
+| Date Logged | Request |
+| :---: | :--- |
+| 09/23/2025 | Add ability to save class mapping to worksheet for fast recall when running tool |
 
 ## License
 
