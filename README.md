@@ -98,6 +98,7 @@ No Known Bugs
 | Date Logged | Request |
 | :---: | :--- |
 | 09/23/2025 | Add ability to save class mapping to worksheet for fast recall when running tool |
+| 11/05/2026 | Add more thorough class mapping simiilar to Locate Class Objects |
 
 ## License
 
